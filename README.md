@@ -1,2 +1,2 @@
 # ZarOyunu
-c# ile Zar oyunu
+c# ile pc ile karşılıklı oynanabilecek Zar oyunu
